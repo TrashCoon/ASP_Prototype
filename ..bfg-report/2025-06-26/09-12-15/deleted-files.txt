@@ -1,0 +1,3 @@
+06770d821eb4d585601ec13b13b9c30ff801de6c 135994925 Cliff_Mossy_E_BaseColor.tif
+2873b57461b7a25b040d3071f8dabdbf22cd3652 118182048 Cliff_Mossy_E_MaskMap.tif
+d223a136fdca1f3eca9fe30d82bda3ef66ceb7a0 135055625 Cliff_Mossy_E_Normal.tif
